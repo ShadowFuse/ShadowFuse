@@ -21,7 +21,7 @@
 
 ###
 
-<img align="right" height="220" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="220" src="https://media.tenor.com/gqbptD8eQwoAAAAm/bee-minecraft.webp" style="width:230px; height:auto;"  />
 
 ###
 
