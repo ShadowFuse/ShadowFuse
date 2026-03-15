@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="400" src="[https://api24.iloveimg.com/thumbnails/g27d4mrsg3ztmnzAgm5d3njAgh71rbb4kchsntf1sct9sy5csrrztjksfqrptsklz3zxAknxlmj96z2263tq63jhm4cghd1vsgmlmy1c4l4f5t8A89ngs8kdngx2yycl8fzgzvbx7fmw1mp14zjfdww6p38v64vjgzjnjd66cz3gsq2jjqm1/52efe4755fd7a8e85856884d58f087d209ac25e451ccf522013c296974a446dd.jpg?timestamp=1773471476600](https://github.com/ShadowFuse/ShadowFuse/blob/main/0b15eabde7bd98cd0887936f2c9e1a85.jpg?raw=true)"  />
+  <img height="220" src="https://image2url.com/r2/default/images/1773566727812-a7cb44d8-1898-4803-912d-727a8c262e76.jpg"  />
 </div>
 
 ###
 
-<img align="right" height="200" src="https://media.tenor.com/G4GdvEotPhoAAAAm/web-hack-hacker.webp"  />
+<img align="right" height="200" src="https://media.tenor.com/FqxEchzG7MYAAAAM/spae-planet.gif"  />
 
 ###
 
