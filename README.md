@@ -43,20 +43,21 @@
 
 <div align="center" style="margin: auto;">
   <p>
-  <a href="#"><img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=orange"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=blue"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=yellow"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/React-000000?style=for-the-badge"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Git-000000?style=for-the-badge"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge"/></a>
   </p>
+  
   <p>
-  <a href="#"><img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Tilda-000000?style=for-the-badge&logo=tilda&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=00C4CC"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnometerminal&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Photoshop-000000?style=for-the-badge"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Tilda-000000?style=for-the-badge"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge"/></a>
   </p>
 </div>
 
