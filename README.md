@@ -1,10 +1,6 @@
 <div align="center">
-  <img height="220" src="img/1.jpg"  />
+  <img height="220" src="img/2.jpg"  />
 </div>
-
-###
-
-<img align="right" height="200" src="https://media.tenor.com/FqxEchzG7MYAAAAM/spae-planet.gif"  />
 
 ###
 
