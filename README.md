@@ -6,6 +6,7 @@
 
 <p align="center" style="margin: auto;>
 
+<a href="https://shadowfuse.github.io/portfolio/index.html">
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://shadowfuse.github.io/portfolio/index.html)
 <a href="#"><img src="https://img.shields.io/badge/PROJECTS-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://t.me/ShadowFuse"><img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=white"/></a>
