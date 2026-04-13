@@ -6,9 +6,7 @@
 
 <p align="center" style="margin: auto;>
 
-<a href="https://shadowfuse.github.io/portfolio/index.html">
-  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=white" />
-</a>
+<a href="https://shadowfuse.github.io/portfolio/index.html"></a>
 <a href="#"><img src="https://img.shields.io/badge/PROJECTS-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://t.me/ShadowFuse"><img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://discordapp.com/users/1084451478200123443"><img src="https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=discord&logoColor=white"/></a>
