@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner-atmosphere-v2.jpg" width="100%" alt="ShadowFuse — Frontend Developer, dark fantasy atmosphere" />
+<img src="./assets/banner-creative-tech.jpg" width="100%" alt="ShadowFuse — Frontend Developer, dark fantasy atmosphere" />
 
 <br>
 
