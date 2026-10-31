@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner-teal-tech.jpg" width="100%" alt="ShadowFuse — Frontend Developer, dark fantasy atmosphere" />
+<img src="./assets/banner-shadowfuse.svg" width="100%" alt="ShadowFuse — minimalist frontend developer banner" />
 
 <br>
 
