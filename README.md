@@ -1,67 +1,40 @@
-<div align="center">
-  <img height="235" src="img/n2.jpg"  />
-</div>
+# Hey, I'm Arseniy 👋
 
-###
+**Frontend Developer · Creative Coding · Kazakhstan**
 
-<p align="center" style="margin: auto;>
+I create responsive websites and interactive digital experiences with a focus on motion, usability, and visual detail.
 
-<a href="https://shadowfuse.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=white&link=https://shadowfuse.github.io/portfolio/" alt="Portfolio Badge"></a>
-<a href="#"><img src="https://img.shields.io/badge/PROJECTS-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://t.me/ShadowFuse"><img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://discordapp.com/users/1084451478200123443"><img src="https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=discord&logoColor=white"/></a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-181c23?style=for-the-badge)](https://shadowfuse.github.io/portfolio/)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ShadowFuse)
 
-</p>
+## Selected work
 
-<p>ㅤ</p>
+### 🌧️ Pluvia — Rain on Glass
+Atmospheric interactive rain, droplets on glass, cursor interaction, audio states, and a clearing-wave animation.
 
-###
+**HTML · CSS · JavaScript**  
+*Live demo and source code links to be added after publication.*
 
-<h2 align="center">✨ About Me</h2>
+### ✨ Form — Particle Experience
+Space-inspired particle compositions with scroll-driven shape transformations and smooth cursor response.
 
-###
+**JavaScript · Interactive Web Graphics**  
+*Live demo and source code links to be added after publication.*
 
-<img align="right" height="220" src="https://media.tenor.com/gqbptD8eQwoAAAAm/bee-minecraft.webp" style="width:230px; height:auto;"  />
+### 🩺 Dobro Medical Group — Website Showcase
+Medical technology website presentation with high-contrast typography, equipment imagery, and product sections.
 
-###
+[View showcase →](https://shadowfuse.github.io/portfolio/#work)
 
-<p align="left">Yo! I'm Arseniy, a web developer passionate about frontend and UI/UX. I create unique projects with crazy approaches and a futuristic style, especially cyberpunk-style interfaces. My work stands out thanks to original design and attention to detail. In the future, I aim to become a senior frontend developer and create projects that impress.</p>
+## Skills
 
-###
+**Frontend:** HTML · CSS · JavaScript · React basics · Three.js  
+**Tools:** Git · GitHub · VS Code · Figma · Tilda · Photoshop · Canva
 
-<p align="center">🔄 Pleasant & Effective communication<br>🎨 Futuristic & Creative Designs<br>⚡ Standout & Unique Projects<br>🌐 Fully Functional Websites<br>💻 Frontend Development</p>
+## About
 
-###
+I'm Arseniy, a frontend developer from Kazakhstan. I like creating visually distinctive interfaces while improving their responsiveness and interaction quality.
 
-<p>ㅤ</p>
+I'm interested in joining a **web studio** as a junior frontend developer and contributing to real projects.
 
-###
-
-<h2 align="center">⚙️ Technologies</h2>
-
-###
-
-<div align="center" style="margin: auto;">
-  <p>
-    <a href="#"><img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/React-000000?style=for-the-badge"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Git-000000?style=for-the-badge"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge"/></a>
-  </p>
-  
-  <p>
-    <a href="#"><img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Photoshop-000000?style=for-the-badge"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Tilda-000000?style=for-the-badge"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge"/></a>
-  </p>
-</div>
-
-###
-
-<div align="center">
-  <img height="235" src="img/n1.jpg"  />
+**Contact:** [@ShadowFuse on Telegram](https://t.me/ShadowFuse)
