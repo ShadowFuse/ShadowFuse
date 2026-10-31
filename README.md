@@ -63,60 +63,65 @@ I work with **HTML, CSS and JavaScript**, and I'm expanding my experience with R
 
 <h2 align="center">✧ Selected Work</h2>
 
-<p align="center"><sub>Interactive experiments built with JavaScript, plus a live business website.</sub></p>
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://shadowfuse.github.io/portfolio/#work"><img width="100%" src="./assets/pluvia-card.svg" alt="Pluvia rain-on-glass project preview" /></a>
+<a href="https://shadowfuse.github.io/portfolio/projects/pluvia/"><img src="https://raw.githubusercontent.com/ShadowFuse/portfolio/main/assets/pluvia-preview.jpg" width="100%" alt="Pluvia — interactive rain on glass" /></a>
 
-### 01 / Pluvia — Rain on Glass
+### 01 / Pluvia
 
-An immersive forest-in-the-rain scene: **glass condensation, interactive water droplets and animated background rainfall.** Drag your cursor to clear the glass or use a clearing wave.
+Rain on glass. Interactive droplets, fog and sound.
 
-- Three rain intensities, adjustable fog level and sound modes
-- Cursor and touch interaction; immersive UI mode
-- Canvas 2D animation, no build step
+<sub>HTML · CSS · JavaScript · Canvas 2D</sub>
 
-`HTML` `CSS` `JavaScript` `Canvas 2D`
+<br><br>
 
-[**View project showcase ↗**](https://shadowfuse.github.io/portfolio/#work)
+<a href="https://shadowfuse.github.io/portfolio/projects/pluvia/"><img src="https://img.shields.io/badge/OPEN_DEMO-203E39?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open Pluvia live demo" /></a>
+<a href="https://github.com/ShadowFuse/portfolio/tree/main/projects/pluvia"><img src="https://img.shields.io/badge/SOURCE_CODE-202835?style=for-the-badge&logo=github&logoColor=white" alt="Pluvia source code" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://shadowfuse.github.io/portfolio/#work"><img width="100%" src="./assets/form-card.svg" alt="Form space particle project preview" /></a>
+<a href="https://shadowfuse.github.io/portfolio/projects/form/"><img src="https://raw.githubusercontent.com/ShadowFuse/portfolio/main/assets/form-preview.jpg" width="100%" alt="FORM — Beyond Our Orbit interactive space project" /></a>
 
-### 02 / Form — Beyond Our Orbit
+### 02 / FORM
 
-An interactive space experience with **thousands of animated particles** forming a stylized rocket, satellite and astronaut.
+An interactive space experience built from particles.
 
-- Scroll-driven shape transitions and particle dispersion
-- Smooth cursor-responsive motion and manual shape controls
-- Canvas 2D renderer, JavaScript-generated geometry
+<sub>HTML · CSS · JavaScript · Canvas 2D</sub>
 
-`HTML` `CSS` `JavaScript` `Canvas 2D`
+<br><br>
 
-[**View project showcase ↗**](https://shadowfuse.github.io/portfolio/#work)
+<a href="https://shadowfuse.github.io/portfolio/projects/form/"><img src="https://img.shields.io/badge/OPEN_DEMO-203E39?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open FORM live demo" /></a>
+<a href="https://github.com/ShadowFuse/portfolio/tree/main/projects/form"><img src="https://img.shields.io/badge/SOURCE_CODE-202835?style=for-the-badge&logo=github&logoColor=white" alt="FORM source code" /></a>
 
 </td>
 </tr>
 </table>
 
-<sub>Preview images above are designed showcase covers. Live interactive demos and source repositories will be linked when published.</sub>
+### More projects
+
+<details>
+<summary><b>03 / Dobro Medical Group</b> — Medical equipment website</summary>
+
+<br>
+
+<a href="https://dobromedicalgroup.kz/"><img src="https://raw.githubusercontent.com/ShadowFuse/portfolio/main/assets/dobro-preview.jpg" width="100%" alt="Dobro Medical Group website screenshot" /></a>
+
+<br>
+
+Corporate website for a medical equipment supplier in Kazakhstan, with a product catalog and responsive layout.
+
+<sub>Corporate website · Web design · Frontend</sub>
 
 <br><br>
 
-### 03 / Dobro Medical Group — Live Website
+<a href="https://dobromedicalgroup.kz/"><img src="https://img.shields.io/badge/VISIT_WEBSITE-C0D534?style=for-the-badge&logo=googlechrome&logoColor=131914" alt="Visit Dobro Medical Group" /></a>
 
-<a href="https://dobromedicalgroup.kz/"><img src="https://raw.githubusercontent.com/ShadowFuse/portfolio/main/assets/dobro-reference.jpg" alt="Dobro Medical Group live website preview" width="100%" /></a>
+**https://dobromedicalgroup.kz/**
 
-A **real, publicly accessible website** for a medical equipment supplier in Kazakhstan. The site presents diagnostic equipment and company services in a high-contrast visual identity, with product categories, a detailed catalog, project information and contact options.
-
-`Business Website` `Web Design` `Frontend`
-
-[**Visit live website ↗**](https://dobromedicalgroup.kz/) &nbsp;·&nbsp; [**View catalog ↗**](https://dobromedicalgroup.kz/html/catalog)
+</details>
 
 <br>
 
