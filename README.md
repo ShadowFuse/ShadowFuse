@@ -5,9 +5,9 @@
 <br>
 
 ### Hi, I'm Arseniy 👋
-**Frontend developer from Kazakhstan, exploring the space between design and code.**
+**Frontend developer from Kazakhstan · Creative coding & interactive interfaces**
 
-I create responsive websites, interactive experiences and experiments with motion.
+I build responsive websites, experiment with Canvas graphics and make interfaces feel alive.
 
 <p>
   <a href="https://shadowfuse.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-192B37?style=for-the-badge&logo=googlechrome&logoColor=BDE7DC" alt="Portfolio"></a>
@@ -22,32 +22,40 @@ I create responsive websites, interactive experiences and experiments with motio
 <h2 align="center">✦ About Me</h2>
 
 <table>
-  <tr>
-    <td width="55%" valign="middle">
-      <h3>Design-minded. Code-driven.</h3>
-      <p>I'm Arseniy — a frontend developer who enjoys building interfaces that feel alive. I care about composition, smooth interaction and the small details that make a website memorable.</p>
-      <p>My current focus is practical frontend development: responsive layouts, JavaScript interactions and creative web graphics.</p>
-      <p>🎯 <b>Goal:</b> join a web studio, contribute to real projects and keep growing as a developer.</p>
-      <p>📍 <b>Location:</b> Kazakhstan<br>
-      💬 <b>Contact:</b> <a href="https://t.me/ShadowFuse">@ShadowFuse</a></p>
-    </td>
-    <td width="45%" valign="middle">
-      <img src="./assets/about.js.svg" alt="JavaScript-inspired about me artwork" width="100%">
-    </td>
-  </tr>
+<tr>
+<td width="55%" valign="middle">
+
+### Design-minded. Code-driven.
+
+I'm Arseniy, a frontend developer from Kazakhstan. I enjoy turning visual ideas into responsive interfaces — especially projects involving interaction, animation and creative coding.
+
+I work with **HTML, CSS and JavaScript**, and I'm expanding my experience with React and modern frontend workflows.
+
+**Currently looking for an opportunity to join a web studio**, collaborate on real projects and grow as a developer.
+
+📍 Kazakhstan  
+💬 [@ShadowFuse on Telegram](https://t.me/ShadowFuse)
+
+</td>
+<td width="45%" valign="middle">
+<img src="./assets/about.js.svg" width="100%" alt="JavaScript-inspired About Me artwork" />
+</td>
+</tr>
 </table>
 
 <br>
 
 <h2 align="center">⚙️ Technologies & Tools</h2>
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,threejs,git,github,vscode,figma,ps&theme=dark&perline=10" alt="HTML, CSS, JavaScript, React, Three.js, Git, GitHub, VS Code, Figma and Photoshop" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,threejs,git,github,vscode,figma,ps&theme=dark&perline=10" alt="HTML CSS JavaScript React Three.js Git GitHub VS Code Figma Photoshop" />
 
 <br><br>
 
-**Core:** HTML · CSS · JavaScript &nbsp; | &nbsp; **Exploring:** React (basics) · Three.js  
-**Workflow:** Git · GitHub · VS Code · Figma &nbsp; | &nbsp; **Also:** Tilda · Canva · Photoshop
+**Frontend:** HTML · CSS · JavaScript · Canvas 2D · React basics  
+**Exploring:** Three.js · Creative web graphics  
+**Tools:** Git · GitHub · VS Code · Figma · Photoshop · Tilda · Canva
 
 </div>
 
@@ -55,32 +63,60 @@ I create responsive websites, interactive experiences and experiments with motio
 
 <h2 align="center">✧ Selected Work</h2>
 
+<p align="center"><sub>Interactive experiments built with JavaScript, plus a live business website.</sub></p>
+
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://shadowfuse.github.io/portfolio/#work"><img width="100%" src="./assets/pluvia-card.svg" alt="Pluvia project preview" /></a>
-      <h3>01. Pluvia</h3>
-      <p>An atmospheric rain-on-glass experience featuring a forest scene, animated droplets, cursor interaction, sound states and a clearing effect.</p>
-      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
-      <a href="https://shadowfuse.github.io/portfolio/#work">View showcase ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://shadowfuse.github.io/portfolio/#work"><img width="100%" src="./assets/form-card.svg" alt="Form project preview" /></a>
-      <h3>02. Form</h3>
-      <p>A space-themed creative coding project with interactive particle shapes, smooth transitions and scroll-driven motion.</p>
-      <p><code>JavaScript</code> <code>Web graphics</code> <code>Animation</code></p>
-      <a href="https://shadowfuse.github.io/portfolio/#work">View showcase ↗</a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://shadowfuse.github.io/portfolio/#work"><img width="100%" src="./assets/pluvia-card.svg" alt="Pluvia rain-on-glass project preview" /></a>
+
+### 01 / Pluvia — Rain on Glass
+
+An immersive forest-in-the-rain scene: **glass condensation, interactive water droplets and animated background rainfall.** Drag your cursor to clear the glass or use a clearing wave.
+
+- Three rain intensities, adjustable fog level and sound modes
+- Cursor and touch interaction; immersive UI mode
+- Canvas 2D animation, no build step
+
+`HTML` `CSS` `JavaScript` `Canvas 2D`
+
+[**View project showcase ↗**](https://shadowfuse.github.io/portfolio/#work)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://shadowfuse.github.io/portfolio/#work"><img width="100%" src="./assets/form-card.svg" alt="Form space particle project preview" /></a>
+
+### 02 / Form — Beyond Our Orbit
+
+An interactive space experience with **thousands of animated particles** forming a stylized rocket, satellite and astronaut.
+
+- Scroll-driven shape transitions and particle dispersion
+- Smooth cursor-responsive motion and manual shape controls
+- Canvas 2D renderer, JavaScript-generated geometry
+
+`HTML` `CSS` `JavaScript` `Canvas 2D`
+
+[**View project showcase ↗**](https://shadowfuse.github.io/portfolio/#work)
+
+</td>
+</tr>
 </table>
 
-<details>
-<summary><b>More work — Dobro Medical Group</b></summary>
-<br>
-<p><img width="100%" src="https://raw.githubusercontent.com/ShadowFuse/portfolio/main/assets/dobro-reference.jpg" alt="Dobro Medical Group website showcase"></p>
-<p>A medical equipment website design with a striking hero section, clear product categories and high-contrast visual hierarchy.</p>
-<a href="https://shadowfuse.github.io/portfolio/#work">View website showcase ↗</a>
-</details>
+<sub>Preview images above are designed showcase covers. Live interactive demos and source repositories will be linked when published.</sub>
+
+<br><br>
+
+### 03 / Dobro Medical Group — Live Website
+
+<a href="https://dobromedicalgroup.kz/"><img src="https://raw.githubusercontent.com/ShadowFuse/portfolio/main/assets/dobro-reference.jpg" alt="Dobro Medical Group live website preview" width="100%" /></a>
+
+A **real, publicly accessible website** for a medical equipment supplier in Kazakhstan. The site presents diagnostic equipment and company services in a high-contrast visual identity, with product categories, a detailed catalog, project information and contact options.
+
+`Business Website` `Web Design` `Frontend`
+
+[**Visit live website ↗**](https://dobromedicalgroup.kz/) &nbsp;·&nbsp; [**View catalog ↗**](https://dobromedicalgroup.kz/html/catalog)
 
 <br>
 
@@ -88,12 +124,8 @@ I create responsive websites, interactive experiences and experiments with motio
 
 <div align="center">
 
-<img height="175" alt="GitHub activity statistics for ShadowFuse" src="https://github-stats-extended.vercel.app/api?username=ShadowFuse&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9FDACD&text_color=B8C6D3&icon_color=9FDACD&hide=issues,prs" />
-<img height="175" alt="Top languages across public repositories" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ShadowFuse&layout=compact&hide_border=true&bg_color=0D1117&title_color=9FDACD&text_color=B8C6D3" />
-
-<br>
-
-<sub>GitHub statistics are generated from public repository data and may update with a delay.</sub>
+<img height="175" alt="GitHub statistics" src="https://github-stats-extended.vercel.app/api?username=ShadowFuse&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9FDACD&text_color=B8C6D3&icon_color=9FDACD&hide=issues,prs" />
+<img height="175" alt="Top languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ShadowFuse&layout=compact&hide_border=true&bg_color=0D1117&title_color=9FDACD&text_color=B8C6D3" />
 
 </div>
 
@@ -105,10 +137,10 @@ I create responsive websites, interactive experiences and experiments with motio
 
 ### Let's build something interesting.
 
-Interested in junior frontend work, web studio collaboration and small website projects.
+**Open to junior frontend opportunities and web studio collaborations.**
 
-[**View Portfolio**](https://shadowfuse.github.io/portfolio/) &nbsp;·&nbsp; [**Contact on Telegram**](https://t.me/ShadowFuse)
+[**Portfolio**](https://shadowfuse.github.io/portfolio/) &nbsp;·&nbsp; [**Telegram**](https://t.me/ShadowFuse) &nbsp;·&nbsp; [**GitHub**](https://github.com/ShadowFuse)
 
-<sub>Built with curiosity, patience and a lot of iteration.</sub>
+<sub>Made with curiosity and attention to detail.</sub>
 
 </div>
