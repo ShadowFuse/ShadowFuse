@@ -61,7 +61,7 @@ I work with **HTML, CSS and JavaScript**, and I'm expanding my experience with R
 
 <br>
 
-<h2 align="center">✧ Selected Work</h2>
+<h2 align="center">✧ Featured Projects</h2>
 
 <table>
 <tr>
@@ -75,7 +75,7 @@ Rain on glass. Interactive droplets, fog and sound.
 
 <sub>HTML · CSS · JavaScript · Canvas 2D</sub>
 
-<br><br>
+<br>
 
 <a href="https://shadowfuse.github.io/portfolio/projects/pluvia/"><img src="https://img.shields.io/badge/OPEN_DEMO-203E39?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open Pluvia live demo" /></a>
 <a href="https://github.com/ShadowFuse/portfolio/tree/main/projects/pluvia"><img src="https://img.shields.io/badge/SOURCE_CODE-202835?style=for-the-badge&logo=github&logoColor=white" alt="Pluvia source code" /></a>
@@ -91,7 +91,7 @@ An interactive space experience built from particles.
 
 <sub>HTML · CSS · JavaScript · Canvas 2D</sub>
 
-<br><br>
+<br>
 
 <a href="https://shadowfuse.github.io/portfolio/projects/form/"><img src="https://img.shields.io/badge/OPEN_DEMO-203E39?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open FORM live demo" /></a>
 <a href="https://github.com/ShadowFuse/portfolio/tree/main/projects/form"><img src="https://img.shields.io/badge/SOURCE_CODE-202835?style=for-the-badge&logo=github&logoColor=white" alt="FORM source code" /></a>
@@ -100,28 +100,32 @@ An interactive space experience built from particles.
 </tr>
 </table>
 
-### More projects
+<h3 align="center">Other Projects</h3>
+
+<table width="100%">
+<tr>
+<td width="100%">
 
 <details>
-<summary><b>03 / Dobro Medical Group</b> — Medical equipment website</summary>
+<summary><b>03 / Dobro Medical Group</b> &nbsp;·&nbsp; Medical equipment website</summary>
 
 <br>
 
-<a href="https://dobromedicalgroup.kz/"><img src="https://raw.githubusercontent.com/ShadowFuse/portfolio/main/assets/dobro-preview.jpg" width="100%" alt="Dobro Medical Group website screenshot" /></a>
+<a href="https://dobromedicalgroup.kz/"><img src="https://raw.githubusercontent.com/ShadowFuse/portfolio/main/assets/dobro-preview.jpg" width="100%" alt="Dobro Medical Group medical equipment website" /></a>
+
+<p>Corporate website for a medical equipment supplier in Kazakhstan. Catalog, products and company information.</p>
+
+<p><sub>Corporate Website · Web Design · Frontend</sub></p>
+
+<a href="https://dobromedicalgroup.kz/"><img src="https://img.shields.io/badge/OPEN_WEBSITE-C0D534?style=for-the-badge&logo=googlechrome&logoColor=131914" alt="Open Dobro Medical Group website" /></a>
 
 <br>
-
-Corporate website for a medical equipment supplier in Kazakhstan, with a product catalog and responsive layout.
-
-<sub>Corporate website · Web design · Frontend</sub>
-
-<br><br>
-
-<a href="https://dobromedicalgroup.kz/"><img src="https://img.shields.io/badge/VISIT_WEBSITE-C0D534?style=for-the-badge&logo=googlechrome&logoColor=131914" alt="Visit Dobro Medical Group" /></a>
-
-**https://dobromedicalgroup.kz/**
 
 </details>
+
+</td>
+</tr>
+</table>
 
 <br>
 
