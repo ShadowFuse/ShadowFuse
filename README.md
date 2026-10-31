@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner-shadowfuse.svg" width="100%" alt="ShadowFuse — minimalist frontend developer banner" />
+<img src="./assets/banner-saturn-v2.svg" width="100%" alt="ShadowFuse — minimalist frontend developer banner" />
 
 <br>
 
