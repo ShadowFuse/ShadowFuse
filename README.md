@@ -117,9 +117,7 @@ An interactive space experience built from particles.
 
 <p><sub>Corporate Website · Web Design · Frontend</sub></p>
 
-<a href="https://dobromedicalgroup.kz/"><img src="https://img.shields.io/badge/OPEN_WEBSITE-C0D534?style=for-the-badge&logo=googlechrome&logoColor=131914" alt="Open Dobro Medical Group website" /></a>
-
-</details>
+<a href="https://dobromedicalgroup.kz/"><img src="https://img.shields.io/badge/OPEN_WEBSITE-C0D534?style=for-the-badge&logo=googlechrome&logoColor=131914" alt="Open Dobro Medical Group website" /></a></details>
 
 </td>
 </tr>
